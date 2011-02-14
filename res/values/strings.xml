@@ -4,6 +4,8 @@
     
     <string name="btn_ok">Go!</string>
     <string name="btn_clr">AC</string>
+    <string name="btn_plus">+</string>
+    <string name="btn_minus">-</string>
     
     <string name="btn_0">0</string>
     <string name="btn_1">1</string>
@@ -15,7 +17,12 @@
     <string name="btn_7">7</string>
     <string name="btn_8">8</string>
     <string name="btn_9">9</string>    
-    
+    <string name="btn_to_converter">Converter</string> 
+    <string name="btn_to_calculator">Calculator</string>
     
     <string name="app_name">Calculator</string>
+    <string name="conv_label">Converter</string>
+    
+    <string name="converter_text_id">Converter</string>
+    <string name="converter_text">Converter</string>
 </resources>
